@@ -16,7 +16,7 @@ import {
 
 
 
-let name = "Kunal";
+// let name = "Kunal";
 function App() {
   const[ mode, setMode] = useState('light');
   const[ text, setText] = useState('dark'); 
